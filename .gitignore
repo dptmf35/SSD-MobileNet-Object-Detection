@@ -1,0 +1,12 @@
+# Python 관련 파일
+__pycache__/
+*.pyc
+
+# checkpoint 파일 무시
+model.ckpt*
+
+# record 파일 무시
+*.record
+
+*.tar.gz
+*.mp4
